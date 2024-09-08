@@ -55,17 +55,19 @@ Key insights from the project:
 * Imbalanced Data: The dataset was highly imbalanced, with a small percentage of NEOs labeled as hazardous. Using resampling techniques like oversampling or undersampling improved model performance.
 * Model Interpretability: The Random Forest model offered high accuracy and interpretability, allowing for a deeper understanding of which features most impacted the classification.
   
-Installation and Usage
-To run the project on your local machine, follow these steps:
+## Installation and Usage
 
-Clone the repository:
+To run this project on your local machine, follow the steps below:
 
-bash
-Copy code
+### 1. Clone the Repository
+First, clone the repository to your local machine using the following command:
+
+```bash
 git clone https://github.com/yourusername/neo-prediction.git
-Install the necessary dependencies:
 
-bash
+### 2. Install the necessary dependencies:
+
+```bash
 Copy code
 pip install -r requirements.txt
 Run the Jupyter notebook:
