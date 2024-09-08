@@ -63,7 +63,7 @@ To run this project on your local machine, follow the steps below:
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/neo-prediction.git
+git clone https://github.com/esraaelfar/Machine-Learning
 
 ```
 ### 2. Install the necessary dependencies:
