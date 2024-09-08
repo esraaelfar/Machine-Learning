@@ -65,17 +65,20 @@ First, clone the repository to your local machine using the following command:
 ```bash
 git clone https://github.com/yourusername/neo-prediction.git
 
+```
 ### 2. Install the necessary dependencies:
 
 ```bash
 Copy code
 pip install -r requirements.txt
-Run the Jupyter notebook:
+```
+### 3. Run the Jupyter notebook:
 
-bash
+```bash
 Copy code
 jupyter notebook predicting-hazardous-neos.ipynb
-Follow the notebook's instructions to explore the data, train the models, and evaluate their performance.
+```
+### 4. Follow the notebook's instructions to explore the data, train the models, and evaluate their performance.
 
 ## Conclusion and Insights
 This project demonstrates that machine learning can effectively predict whether an NEO is hazardous based on a combination of physical and orbital parameters. The Random Forest model provided a high degree of accuracy and offered interpretable results, which could be beneficial for early warning systems in planetary defense.
