@@ -69,13 +69,11 @@ git clone https://github.com/yourusername/neo-prediction.git
 ### 2. Install the necessary dependencies:
 
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 ### 3. Run the Jupyter notebook:
 
 ```bash
-Copy code
 jupyter notebook predicting-hazardous-neos.ipynb
 ```
 ### 4. Follow the notebook's instructions to explore the data, train the models, and evaluate their performance.
