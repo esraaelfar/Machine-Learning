@@ -76,7 +76,14 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook predicting-hazardous-neos.ipynb
 ```
-### 4. Follow the notebook's instructions to explore the data, train the models, and evaluate their performance.
+## Follow the Notebook Instructions
+Inside the notebook, you'll find step-by-step instructions to:
 
+* Load the dataset
+* Preprocess the data
+* Train machine learning models
+* Evaluate the models' performance
+  
 ## Conclusion and Insights
-This project demonstrates that machine learning can effectively predict whether an NEO is hazardous based on a combination of physical and orbital parameters. The Random Forest model provided a high degree of accuracy and offered interpretable results, which could be beneficial for early warning systems in planetary defense.
+This project demonstrates that machine learning can effectively predict whether an NEO is hazardous based on a combination of physical and orbital parameters. 
+The Random Forest model provided a high degree of accuracy and offered interpretable results, which could be beneficial for early warning systems in planetary defense.
